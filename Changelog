@@ -2,3 +2,7 @@
 -app released
 1.0.2
 - bug fix in number does not add number...
+1.0.3
+- bug fix with error message in numbers
+- moved in numbers ext in textbox to center
+- bug fix with text in Symbol (was in left should be in center)

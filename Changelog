@@ -6,3 +6,6 @@
 - bug fix with error message in numbers
 - moved in numbers ext in textbox to center
 - bug fix with text in Symbol (was in left should be in center)
+1.0.4
+- moved button for generating in Random to the bottom
+- bug fix in number add (with showing error message)
